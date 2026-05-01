@@ -1,0 +1,2 @@
+V002|Royal Feast Caterers|Catering|0719876543|royalfeast@example.com|LKR 300,000 - 500,000|Custom Dates|Busy
+V003|Ananda Caters|Catering|0814567892|abcdf@gmail.com|LKR 50000 - 250000|Custom Dates|Active

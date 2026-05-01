@@ -1,0 +1,4 @@
+P001|Golden Celebration|Full Wedding|Venue styling, photography, and catering|LKR 450,009|Available
+P002|Classic Elegance|Ceremony Focus|Decor, floral work, and coordination support|LKR 220,000|Available
+P003|test|test|test|1200|Available
+P004|DJ|Music||100000|Available
